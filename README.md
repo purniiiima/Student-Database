@@ -12,8 +12,8 @@ The Student Database Management System allows users to interact with a database 
 - User-friendly menu-driven interface.
 
 # Usage
-- Compile and run the StudentDatabase.java file.
-- Choose from the menu options:
+Compile and run the StudentDatabase.java file.
+Choose from the menu options:
 1: Add a new student.
 2: View the list of students.
 3: Search for a student by RollNo.
